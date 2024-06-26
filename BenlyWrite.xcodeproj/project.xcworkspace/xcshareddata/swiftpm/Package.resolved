@@ -1,0 +1,24 @@
+{
+  "originHash" : "81df91fc268b29413220af1047c8f87dd4ca59d6aa054cbeeb34007634627a4f",
+  "pins" : [
+    {
+      "identity" : "codescanner",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/twostraws/CodeScanner",
+      "state" : {
+        "revision" : "34da57fb63b47add20de8a85da58191523ccce57",
+        "version" : "2.5.0"
+      }
+    },
+    {
+      "identity" : "simplynfc",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yanngodeau/SimplyNFC",
+      "state" : {
+        "revision" : "fc4191fb389c5732db0629ceb7d8f971949b1e7a",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
